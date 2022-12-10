@@ -1,0 +1,17 @@
+Katya, Experiment1, 150, 10
+Katya, Experiment1, 150, 20
+Katya, Experiment1, 150, 30
+Katya, Experiment1, 150, 40
+Katya, Experiment1, 150, 50
+
+Katya, Experiment2, 150, 10
+Katya, Experiment2, 175, 20
+Katya, Experiment2, 200, 30
+Katya, Experiment2, 200, 40
+Katya, Experiment2, 225, 50
+
+Katya, Experiment3, 150, 10
+Katya, Experiment3, 175, 20
+Katya, Experiment3, 225, 30
+Katya, Experiment3, 250, 40
+Katya, Experiment3, 275, 50

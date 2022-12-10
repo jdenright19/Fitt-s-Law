@@ -1,0 +1,17 @@
+Jimmy, Experiment1, 150, 10
+Jimmy, Experiment1, 150, 20
+Jimmy, Experiment1, 150, 30
+Jimmy, Experiment1, 150, 40
+Jimmy, Experiment1, 175, 50
+
+Jimmy, Experiment2, 150, 10
+Jimmy, Experiment2, 175, 20
+Jimmy, Experiment2, 225, 30
+Jimmy, Experiment2, 225, 40
+Jimmy, Experiment2, 250, 50
+
+Jimmy, Experiment3, 150, 10
+Jimmy, Experiment3, 200, 20
+Jimmy, Experiment3, 225, 30
+Jimmy, Experiment3, 225, 40
+Jimmy, Experiment3, 225, 50

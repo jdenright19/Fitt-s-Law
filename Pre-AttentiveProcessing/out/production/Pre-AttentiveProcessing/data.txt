@@ -1,0 +1,17 @@
+Jake, Experiment1, 150, 10
+Jake, Experiment1, 150, 20
+Jake, Experiment1, 150, 30
+Jake, Experiment1, 150, 40
+Jake, Experiment1, 150, 50
+
+Jake, Experiment2, 150, 10
+Jake, Experiment2, 175, 20
+Jake, Experiment2, 200, 30
+Jake, Experiment2, 200, 40
+Jake, Experiment2, 225, 50
+
+Jake, Experiment3, 150, 10
+Jake, Experiment3, 175, 20
+Jake, Experiment3, 225, 30
+Jake, Experiment3, 250, 40
+Jake, Experiment3, 275, 50
